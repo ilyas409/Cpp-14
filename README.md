@@ -1,2 +1,2 @@
 # CppUtilities
-Utilities and convenience methods for C++ 14
+Templates, utilities, and convenience methods for C++ 14
